@@ -1,0 +1,29 @@
+Express JS is a small framework that works on top of Node web server functionality to simplify its APIs and add helpful new features. 
+
+It makes it easier to organize your application’s functionality with middleware and routing. It adds helpful utilities to Node HTTP objects and facilitates the rendering of dynamic HTTP objects.
+Express Advantages:
+
+Simplicity and Minimalism: Express JS has very simple design, that makes it easy to learn and use. With its simple structure you can quickly set up a server, define routes, and handle HTTP requests which makes it an excellent choice for building web applications efficiently.
+
+Flexibility and Customization: Express JS is a flexible framework that allows you to structure the application based on your preferences. It does have a strict application architecture so you can organize your code according to your preference.
+
+Middleware Ecosystem: Express JS has a large numbers of middleware that can be easily integrated into applications. Middleware functions increases the functionality of Express by allowing you to handle various tasks such as authentication, logging, and error handling.
+Scalability: Express JS is designed to be lightweight and scalable, which makes it suitable for building both small projects and large-scale applications. It is asynchronous and has event-driven architecture which allows you to handle a large number of requests.
+
+Active Community Support: Express JS has a large active community who contribute to its growth and improvement. Because of them the framework is regularly updated and well-documented.
+
+Features of Express JS
+Fast Server-Side Development 
+The features of node js help express saving a lot of time.
+
+Middleware
+Middleware is a request handler that has access to the application's request-response cycle.
+
+Routing 
+It refers to how an application's endpoint's URLs respond to client requests.
+
+Templating 
+It provides templating engines to build dynamic content on the web pages by creating HTML templates on the server.
+
+Debugging 
+Express makes it easier as it identifies the exact part where bugs are.
